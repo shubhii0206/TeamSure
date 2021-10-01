@@ -8,3 +8,6 @@ So, we decided to make LabourUp App that acts as a medium of contact and deal fi
 To fix the final deal with the most appropriate Contractor, the Hirer contacts him on a phone call. The final deal is kept on the phone call because Businessmen and Contractors prefer to finalize the money and labor-related deals in real-time over meetups and voice calls.
 
 The Contractor will then coordinate with the poor labourers over phone calls, and then send them to work place. This way just with one call, laboures can get employment and feed their families. They will not have to go hunting for Builders and bother about travel expenses. The travel expenses, resources and time of everyone shall be saved due to mass hiring. The workers will have work security.
+
+Link to view app
+https://drive.google.com/file/d/1nT54w2FR3fbK8Fre1AtufLL6qzfQXV70/view?usp=sharing
